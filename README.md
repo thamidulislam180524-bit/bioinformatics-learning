@@ -1,2 +1,15 @@
-# bioinformatics-learning
-Biochemistry and Biotechnology student at North South University documenting my learning journey in Python, bioinformatics, data analysis, biotechnology coursework, laboratory skills, and research projects. This repository reflects my skill development for future careers in pharmaceutical quality control, regulatory affairs, and bioinformatics.
+# Bioinformatics Learning Journey
+
+I am a Biochemistry and Biotechnology student at North South University, developing skills in Python, bioinformatics, and data analysis.
+
+## Current Learning Areas
+- Python Programming
+- Bioinformatics Fundamentals
+- Data Analysis
+- Biotechnology Coursework
+- Laboratory Skills
+
+## Goals
+- Build strong computational biology skills
+- Prepare for pharmaceutical QC/RA roles
+- Transition into bioinformatics and research
