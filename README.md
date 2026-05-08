@@ -1,15 +1,18 @@
 # Bioinformatics Learning Journey
 
-I am a Biochemistry and Biotechnology student at North South University, developing skills in Python, bioinformatics, and data analysis.
+I am a Biochemistry and Biotechnology student at North South University, learning Python, bioinformatics, and data analysis.
 
-## Current Learning Areas
-- Python Programming
-- Bioinformatics Fundamentals
-- Data Analysis
-- Biotechnology Coursework
-- Laboratory Skills
+## Python Basics Completed
+- Variables
+- Input and Output
+- Arithmetic Operations
+- If Else Conditions
+- Loops
+- Functions
+- Lists
 
 ## Goals
-- Build strong computational biology skills
-- Prepare for pharmaceutical QC/RA roles
-- Transition into bioinformatics and research
+- Build strong programming fundamentals
+- Learn bioinformatics tools
+- Develop data analysis skills
+- Prepare for future research and pharmaceutical careers
